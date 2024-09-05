@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HifzaNoor12
 - 👀 I’m interested in working on software development.
-- 🌱 I’m currently learning software engineering.
+- 🌱 I’m currently learning software engineering,web development.
 - 💞️ I’m looking to collaborate on any innovative tech initiatives.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hifza-noor-5b343b2b2) 
 - ⚡ Fun fact: I enjoy exploring new technologies and tools, and I'm always up for a coding challenge!
